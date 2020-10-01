@@ -1,6 +1,6 @@
 # Dataset for the paper "LiMiT: The Literal Motion in Text Dataset".
 
-LiMiT Dataset described in the paper.
+LiMiT Dataset described in the paper: "LiMiT: The Literal Motion in Text Dataset", Findings of EMNLP, 2020.
 
 The limit dataset of ~24K sentences that describe literal motion (~14K sentences), and sentences not describing motion or other type of motion (e.g. fictive motion). Senteces were extracted from electronic books categorized as fiction or novels, and a portion from the [NetActivity Captions Dataset](https://cs.stanford.edu/people/ranjaykrishna/densevid/).
 
@@ -38,3 +38,6 @@ Both JSON have the same following structure:
 
 ```
 
+## Citation
+
+TBA
